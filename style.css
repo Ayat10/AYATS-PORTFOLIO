@@ -1,0 +1,31 @@
+body {
+    color: darkgreen;
+    font-family: sans-serif;
+    font-style: normal;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-image: url(pics/Shadow\ picture.png);
+    background-position: center;
+    background-size: cover;
+}
+h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+img {
+    text-align: center;
+}
+header {
+    text-align: center;
+}
+main {
+    text-align: center;
+}
+footer {
+    color: aqua;
+    text-align: center;
+}
+button {
+    height: 25px;
+    border-radius: 10px;
+}
